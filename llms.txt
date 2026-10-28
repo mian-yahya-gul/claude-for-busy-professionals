@@ -1,0 +1,16 @@
+# Claude for Busy Professionals (2027 Edition)
+
+> A no-fluff beginner's guide to using Claude AI at work, by Mian Yahya Gul, a GenAI and MLOps engineer and founder of DeosAI Labs. It teaches non-technical professionals 16 step-by-step workflows for prompts, files, research, data analysis, documents and slides, projects and memory, connectors, delegated tasks, scheduled briefings, skills, meetings, decisions and voice. Covers the Claude 5.5 models (Opus, Sonnet, Haiku) and Claude Fable 5.1, with features checked in October 2026. Available on Amazon in Kindle and paperback (paperback ISBN 9798165732133). Independent; not affiliated with Anthropic.
+
+## Key ideas
+- The BRIEF method: Background, Reader, Instructions, Examples, Format.
+- Model choice: start with Sonnet, move to Opus when stakes rise, Haiku for quick jobs.
+- Calculate, don't estimate: upload data files and ask Claude to use code.
+- Content is not command: keep sending, sharing, buying and deleting behind human approval to guard against prompt injection.
+
+## Who it's for
+Managers, consultants, freelancers, analysts, marketers, administrators, HR, finance and small business owners who don't code.
+
+## Links
+- Book page: https://mian-yahya-gul.github.io/claude-for-busy-professionals/
+- Author: https://www.linkedin.com/in/mian-yahya-gul
